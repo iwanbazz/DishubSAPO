@@ -1,0 +1,11 @@
+[12-Dec-2017 18:16:30 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'id3740636_afriza14'@'localhost' (using password: YES) in /home/k2000987/trayek.dawoodtravel.co.id/admin/koneksi.php on line 2
+[12-Dec-2017 18:16:30 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/k2000987/trayek.dawoodtravel.co.id/admin/pages_web/menu.php on line 38
+[12-Dec-2017 18:16:30 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/k2000987/trayek.dawoodtravel.co.id/admin/pages_web/menu.php on line 38
+[12-Dec-2017 18:16:30 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/k2000987/trayek.dawoodtravel.co.id/admin/pages_web/home.php on line 16
+[12-Dec-2017 18:16:30 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/k2000987/trayek.dawoodtravel.co.id/admin/pages_web/home.php on line 16
+[12-Dec-2017 18:16:30 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/k2000987/trayek.dawoodtravel.co.id/admin/pages_web/home.php on line 29
+[12-Dec-2017 18:16:30 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/k2000987/trayek.dawoodtravel.co.id/admin/pages_web/home.php on line 29
+[12-Dec-2017 18:16:30 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/k2000987/trayek.dawoodtravel.co.id/admin/pages_web/home.php on line 42
+[12-Dec-2017 18:16:30 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/k2000987/trayek.dawoodtravel.co.id/admin/pages_web/home.php on line 42
+[12-Dec-2017 18:16:30 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/k2000987/trayek.dawoodtravel.co.id/admin/pages_web/home.php on line 56
+[12-Dec-2017 18:16:30 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/k2000987/trayek.dawoodtravel.co.id/admin/pages_web/home.php on line 56

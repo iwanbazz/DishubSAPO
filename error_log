@@ -1,0 +1,21 @@
+[21-Dec-2017 05:59:28 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'dishubpku'@'localhost' (using password: YES) in /home/k2000987/trayek.dawoodtravel.co.id/koneksi.php on line 2
+[21-Dec-2017 05:59:28 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'dishubpku'@'localhost' (using password: YES) in /home/k2000987/trayek.dawoodtravel.co.id/koneksi.php on line 3
+[21-Dec-2017 05:59:28 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/k2000987/trayek.dawoodtravel.co.id/index.php on line 221
+[21-Dec-2017 05:59:28 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/k2000987/trayek.dawoodtravel.co.id/index.php on line 223
+[21-Dec-2017 05:59:30 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'dishubpku'@'localhost' (using password: YES) in /home/k2000987/trayek.dawoodtravel.co.id/koneksi.php on line 2
+[21-Dec-2017 05:59:30 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'dishubpku'@'localhost' (using password: YES) in /home/k2000987/trayek.dawoodtravel.co.id/koneksi.php on line 3
+[21-Dec-2017 05:59:30 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/k2000987/trayek.dawoodtravel.co.id/index.php on line 221
+[21-Dec-2017 05:59:30 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/k2000987/trayek.dawoodtravel.co.id/index.php on line 223
+[22-Dec-2017 01:50:00 UTC] PHP Warning:  mysqli_connect(): MySQL server has gone away in /home/k2000987/trayek.dawoodtravel.co.id/koneksi.php on line 2
+[22-Dec-2017 01:50:00 UTC] PHP Warning:  mysqli_connect(): Error while reading greeting packet. PID=5793 in /home/k2000987/trayek.dawoodtravel.co.id/koneksi.php on line 2
+[22-Dec-2017 01:50:00 UTC] PHP Warning:  mysqli_connect(): (HY000/2006): MySQL server has gone away in /home/k2000987/trayek.dawoodtravel.co.id/koneksi.php on line 2
+[22-Dec-2017 01:50:00 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/k2000987/trayek.dawoodtravel.co.id/koneksi.php on line 3
+[22-Dec-2017 01:50:00 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/k2000987/trayek.dawoodtravel.co.id/server.php on line 13
+[22-Dec-2017 01:50:08 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/k2000987/trayek.dawoodtravel.co.id/koneksi.php on line 2
+[22-Dec-2017 01:50:16 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/k2000987/trayek.dawoodtravel.co.id/koneksi.php on line 3
+[22-Dec-2017 01:50:16 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/k2000987/trayek.dawoodtravel.co.id/server.php on line 13
+[22-Dec-2017 01:50:30 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/k2000987/trayek.dawoodtravel.co.id/koneksi.php on line 2
+[22-Dec-2017 01:50:30 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/k2000987/trayek.dawoodtravel.co.id/koneksi.php on line 3
+[22-Dec-2017 01:50:30 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/k2000987/trayek.dawoodtravel.co.id/server.php on line 56
+[22-Dec-2017 01:50:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k2000987/trayek.dawoodtravel.co.id/server.php on line 57
+[22-Dec-2017 01:50:30 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, null given in /home/k2000987/trayek.dawoodtravel.co.id/server.php on line 74

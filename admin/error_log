@@ -1,0 +1,32 @@
+[11-Jan-2018 06:49:31 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/k2000987/trayek.dawoodtravel.co.id/admin/koneksi.php on line 2
+[11-Jan-2018 06:49:31 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/k2000987/trayek.dawoodtravel.co.id/admin/index.php on line 10
+[11-Jan-2018 06:49:31 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k2000987/trayek.dawoodtravel.co.id/admin/index.php on line 11
+[11-Jan-2018 06:49:31 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/k2000987/trayek.dawoodtravel.co.id/admin/pages_web/menu.php on line 39
+[11-Jan-2018 06:49:31 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/k2000987/trayek.dawoodtravel.co.id/admin/pages_web/menu.php on line 39
+[11-Jan-2018 06:49:31 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/k2000987/trayek.dawoodtravel.co.id/admin/pages_web/verifikasi.php on line 42
+[11-Jan-2018 06:49:31 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k2000987/trayek.dawoodtravel.co.id/admin/pages_web/verifikasi.php on line 43
+[11-Jan-2018 06:49:43 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/k2000987/trayek.dawoodtravel.co.id/admin/koneksi.php on line 2
+[11-Jan-2018 06:49:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/k2000987/trayek.dawoodtravel.co.id/admin/index.php on line 10
+[11-Jan-2018 06:49:43 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k2000987/trayek.dawoodtravel.co.id/admin/index.php on line 11
+[11-Jan-2018 06:49:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/k2000987/trayek.dawoodtravel.co.id/admin/pages_web/menu.php on line 39
+[11-Jan-2018 06:49:43 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/k2000987/trayek.dawoodtravel.co.id/admin/pages_web/menu.php on line 39
+[11-Jan-2018 06:49:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/k2000987/trayek.dawoodtravel.co.id/admin/pages_web/verifikasi.php on line 42
+[11-Jan-2018 06:49:43 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k2000987/trayek.dawoodtravel.co.id/admin/pages_web/verifikasi.php on line 43
+[11-Jan-2018 06:49:47 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/k2000987/trayek.dawoodtravel.co.id/admin/koneksi.php on line 2
+[11-Jan-2018 06:49:47 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/k2000987/trayek.dawoodtravel.co.id/admin/index.php on line 10
+[11-Jan-2018 06:49:47 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k2000987/trayek.dawoodtravel.co.id/admin/index.php on line 11
+[11-Jan-2018 06:49:47 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/k2000987/trayek.dawoodtravel.co.id/admin/pages_web/menu.php on line 39
+[11-Jan-2018 06:49:47 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/k2000987/trayek.dawoodtravel.co.id/admin/pages_web/menu.php on line 39
+[11-Jan-2018 06:49:47 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/k2000987/trayek.dawoodtravel.co.id/admin/pages_web/user_list.php on line 59
+[11-Jan-2018 06:49:47 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k2000987/trayek.dawoodtravel.co.id/admin/pages_web/user_list.php on line 60
+[12-Jan-2018 03:28:52 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/k2000987/trayek.dawoodtravel.co.id/admin/koneksi.php on line 2
+[12-Jan-2018 03:28:52 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/k2000987/trayek.dawoodtravel.co.id/admin/index.php on line 10
+[12-Jan-2018 03:28:52 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k2000987/trayek.dawoodtravel.co.id/admin/index.php on line 11
+[12-Jan-2018 03:28:52 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/k2000987/trayek.dawoodtravel.co.id/admin/pages_web/menu.php on line 39
+[12-Jan-2018 03:28:52 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/k2000987/trayek.dawoodtravel.co.id/admin/pages_web/menu.php on line 39
+[12-Jan-2018 03:28:52 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/k2000987/trayek.dawoodtravel.co.id/admin/pages_web/user_list.php on line 59
+[12-Jan-2018 03:28:52 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k2000987/trayek.dawoodtravel.co.id/admin/pages_web/user_list.php on line 60
+[12-Jan-2018 11:04:07 Asia/Jakarta] PHP Warning:  unlink(./hasil/1): No such file or directory in /home/k2000987/trayek.dawoodtravel.co.id/admin/pages_web/finish.php on line 40
+[12-Jan-2018 11:06:47 Asia/Jakarta] PHP Warning:  unlink(./hasil/1): No such file or directory in /home/k2000987/trayek.dawoodtravel.co.id/admin/pages_web/finish.php on line 40
+[12-Jan-2018 13:32:06 Asia/Jakarta] PHP Warning:  unlink(./hasil/1): No such file or directory in /home/k2000987/trayek.dawoodtravel.co.id/admin/pages_web/finish.php on line 40
+[12-Jan-2018 13:40:41 Asia/Jakarta] PHP Warning:  unlink(./hasil/1): No such file or directory in /home/k2000987/trayek.dawoodtravel.co.id/admin/pages_web/finish.php on line 40

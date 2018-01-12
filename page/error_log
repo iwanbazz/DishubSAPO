@@ -1,0 +1,6 @@
+[12-Jan-2018 03:28:51 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/k2000987/trayek.dawoodtravel.co.id/koneksi.php on line 2
+[12-Jan-2018 03:28:51 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/k2000987/trayek.dawoodtravel.co.id/koneksi.php on line 3
+[12-Jan-2018 03:28:51 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/k2000987/trayek.dawoodtravel.co.id/page/index.php on line 22
+[12-Jan-2018 03:28:51 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/k2000987/trayek.dawoodtravel.co.id/page/index.php on line 22
+[12-Jan-2018 03:28:51 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/k2000987/trayek.dawoodtravel.co.id/page/index.php on line 378
+[12-Jan-2018 03:28:51 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/k2000987/trayek.dawoodtravel.co.id/page/index.php on line 379
