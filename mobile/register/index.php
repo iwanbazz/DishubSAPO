@@ -14,7 +14,7 @@ I<?php
   }
   $ps="";
   if(isset($daftar_trayek)){
-    if(mysqli_num_rows(mysqli_query($con2,"select * from data_uji where no_kbm='$no_poll' and no_uji='$no_stnk' "))!=0){
+    if(mysqli_num_rows(mysqli_query($con2,"select * from data_uji where no_kbm='$no_poll' and no_uji='$no_stnk' ")) && mysqli_num_rows(mysqli_query($con,"select * from tbl_verifikasi where no_kendaraan='$no_poll' and no_uji='$no_stnk' "))!=0){
         if(mysqli_num_rows(mysqli_query($con,"select * from tbl_berkas where no_polisi='$no_poll' or no_stnk='$no_stnk' and acc='0' "))==0)
         {
             $izin=$type;
